@@ -1,5 +1,8 @@
 Author: Aysad Kozanoglu
 
+##### description
+bottom panell with menu button, disabled sidepanel Dock 
+
 #### Howto install
 
 
@@ -22,3 +25,6 @@ gnome-shell-extension-tool -e gnomeMenu
 ```
 
 Logout and login to your Desktop. finished
+
+Screenshot
+![bottom panel with menu button](https://raw.githubusercontent.com/AysadKozanoglu/Gnome3_Menu_BottomPanel/master/screenshot.png)
