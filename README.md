@@ -1,7 +1,7 @@
 Author: Aysad Kozanoglu
 
 ##### description
-bottom panell with menu button, disabled sidepanel Dock 
+bottom panel with menu button, disabled sidepanel Dock 
 
 #### Howto install
 
