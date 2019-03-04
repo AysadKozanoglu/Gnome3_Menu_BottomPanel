@@ -27,4 +27,4 @@ gnome-shell-extension-tool -e gnomeMenu
 Logout and login to your Desktop. finished
 
 Screenshot
-![bottom panel with menu button](https://raw.githubusercontent.com/AysadKozanoglu/Gnome3_Menu_BottomPanel/master/screenshot.png)
+![bottom panel with menu button](http://10.10.10.221:8080/Lebenswege/LW_Menu_TopBarToBottom/raw/master/screenshot.png)
