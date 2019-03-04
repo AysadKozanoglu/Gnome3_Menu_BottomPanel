@@ -26,5 +26,5 @@ gnome-shell-extension-tool -e gnomeMenu
 
 Logout and login to your Desktop. finished
 
-Screenshot
+#### Screenshot
 (http://10.10.10.221:8080/Lebenswege/LW_Menu_TopBarToBottom/raw/master/screenshot.png)
